@@ -1,0 +1,23 @@
+.card-size {
+    width: 340px;
+}
+
+.card {
+    background-color: white;
+    height: 560px;
+    border-radius: 16px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.light-btn {
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.light-btn:hover {
+    cursor: pointer;
+}

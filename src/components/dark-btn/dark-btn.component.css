@@ -1,0 +1,16 @@
+.dark-btn {
+    background-color: hsl(245, 75%, 52%);
+    color: hsl(225, 100%, 98%);
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 12px 0;
+    margin: 24px 0;
+    box-shadow: hsl(245, 75%, 52%) 0 15px 40px -12px;
+    font-weight: 700;
+}
+
+.dark-btn:hover {
+    background-color: #766cf1;
+    cursor: pointer;
+}
