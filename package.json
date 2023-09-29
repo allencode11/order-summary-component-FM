@@ -2,7 +2,7 @@
   "name": "card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/allencode11/order-summary-component-FM",
+  "homepage": "https://allencode11.github.io/order-summary-component-FM/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
